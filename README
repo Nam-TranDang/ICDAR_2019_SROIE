@@ -1,6 +1,6 @@
 # ICDAR 2019 SROIE Dataset
 
-This repository contains a cleaned version of the dataset for the **ICDAR 2019 Robust Reading Challenge on Scanned Receipts OCR and Information Extraction (SROIE)**.
+This repository contains a cleaned version of the dataset for the [ICDAR 2019 Robust Reading Challenge on Scanned Receipts OCR and Information Extraction (SROIE)](https://rrc.cvc.uab.es/?ch=13&com=introduction).
 
 ## Dataset Link
 * Official Challenge Page: [ICDAR 2019 SROIE](https://rrc.cvc.uab.es/?ch=13&com=introduction)
